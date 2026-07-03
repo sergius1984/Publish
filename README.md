@@ -1,3 +1,8 @@
+
+<picture>
+  <img alt="Логотип проекта" src="logo-light.png" style="max-width: 100%;">
+</picture>
+
 #  проект **metricgen**
 
 ## Общее описание проекта
