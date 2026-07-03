@@ -1,6 +1,6 @@
 
 <picture>
-  <img alt="Логотип проекта" src="logo-light.png" style="max-width: 100%;">
+  <img alt="Логотип проекта" src="metricgen_logo_160_135.png" style="max-width: 100%;">
 </picture>
 
 #  проект **metricgen**
